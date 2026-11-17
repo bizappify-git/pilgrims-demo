@@ -1,0 +1,7 @@
+logs/
+*.bat
+__pycache__/
+.git/
+.gitignore
+Dockerfile
+.dockerignore
